@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3163
     wikipedia: http://en.wikipedia.org/wiki/George_Washington_Cable
 description: Carancro. -- Grande Pointe. -- Au large. rc.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24078#Bonaventure--A-Prose-Pastoral-of-Acadian-Louisiana
 gutenberg_issued: '2007-12-30'
 gutenberg_type: Text
 identifiers:
