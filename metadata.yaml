@@ -1,0 +1,30 @@
+_repo: Bonaventure--A-Prose-Pastoral-of-Acadian-Louisiana_24078
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cable, George Washington
+    alias: Cable, G. W. (George Washington)
+    birthdate: 1844
+    deathdate: 1925
+    gutenberg_agent_id: '3163'
+    url: http://www.gutenberg.org/2009/agents/3163
+    wikipedia: http://en.wikipedia.org/wiki/George_Washington_Cable
+description: Carancro. -- Grande Pointe. -- Au large. rc.
+gutenberg_issued: '2007-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24078'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pastoral fiction'
+- !lcc 'PS'
+- !lcsh 'Louisiana -- Fiction'
+- !lcsh 'Country life -- Fiction'
+title: 'Bonaventure: A Prose Pastoral of Acadian Louisiana'
+url: http://www.gutenberg.org/ebooks/24078
